@@ -1,5 +1,7 @@
 # Pizza_Sales_PowerBI
 
+- Used DAX Functions, Card, Funnel chart, Slicer chart, Bar chart, Donut chart, Area chart, and Column chart to analyze the Pizza Sales.
+
 DAX Functions used : 
 
 Avg Order Value = [Total Revenue] / DISTINCTCOUNT(Pizza_Sales[order_id])
